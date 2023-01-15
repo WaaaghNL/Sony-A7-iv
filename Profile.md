@@ -1,6 +1,14 @@
 # My Settings Profile
 This is an overview for the settings i use for my Sony Alpha 7 mark 4. This page is always changing en evolving with my increasing skillset. All the settings you see below are based on the factory defaults and the changes i made to that.
-Note: Before changing your settings please back them up. Its not hard just hit `Menu > Setup > Reset / Save Settings > Save/Load Settings > Save`. If you dont like the changes just load your backup back `Menu > Setup > Reset / Save Settings > Save/Load Settings > Load`.
+
+## Backup
+Before changing your settings please back them up it's not hard. Remember i told you!
+* Backup `Menu > Setup > Reset / Save Settings > Save/Load Settings > Save`
+* Restore `Menu > Setup > Reset / Save Settings > Save/Load Settings > Load`.
+
+Files are stored on the card in slot 1 in the following folder: `Private > Sony > Setting > 7M4 > Camset > [NAME].DAT`
+
+See! it is not so hard! Just do it!
 
 ## Page Rules
 * Setting are shown between the quotes `like this` and followed by the explanation of the option.
