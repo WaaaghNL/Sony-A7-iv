@@ -69,6 +69,13 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 #### Grid Line Type
 `Rule of 3rds Grid` 3x3 grid on screen
 
+### Drive Mode
+#### Bracket Settings
+* Selftimer during Bracket `2 Sec`
+* Bracket order `- > 0 > +` Underexposed > Normal exposure > Over exposed 
+#### Interval Shoot Func.
+* Shutter Type in Interval `Mechanica Shutter`
+
 ## Exposure/Color
 ### Zebra Display
 #### Zebra Display
