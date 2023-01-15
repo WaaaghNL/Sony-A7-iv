@@ -77,6 +77,9 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 * Shutter Type in Interval `Mechanica Shutter`
 
 ## Exposure/Color
+### White Balance
+#### Shutter AWB Lock
+`Cont/ Shooting` Keeps Auto White Balance locked while continus shooting (Bursting)
 ### Zebra Display
 #### Zebra Display
 `ON` This highlights the almost overexposed parts of the image
