@@ -24,7 +24,7 @@ A overview of the camera factory defaults.
 ## Shooting
 ### Image Quality
 ##### Image Quality Settings
-Visable after setting up `Shooting > Image Quality > Media > Rec. Media Settings`
+Visable after setting up `Shooting > Image Quality > Media > Rec. Media Settings` [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000659384.html)
 | Option | Slot 1 | Slot 2 |
 | ------------- | ------------- | ------------- |
 | File Format | RAW | JPEG |
@@ -33,19 +33,19 @@ Visable after setting up `Shooting > Image Quality > Media > Rec. Media Settings
 | JPEG Image Size | - | L: 33M |
 
 #### :video_camera: File Format
-`XAVC HS 4K`
+`XAVC HS 4K` [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640835.html)
 #### :video_camera: Movie Settings
 * Record Setting `100M 4:2:2 10bit` Records in 100Mbps, 4:2:2, and 10bit.
 
 #### Long Exposure NR
-`OFF` Long Exposure NR Removes the noice by taking a second picture with the mechanical shutter closed and compensates the first image with it. This setting dubbels the time it takes to create one Long Exposure image
+`OFF` Long Exposure NR Removes the noice by taking a second picture with the mechanical shutter closed and compensates the first image with it. This setting dubbels the time it takes to create one Long Exposure image [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656583.html)
 
 #### Color Space
-`AdobeRGB` Just a wider color space [More info](https://expertphotography.com/srgb-vs-adobe-rgb/#:~:text=SRGB%20and%20Adobe%20RGB%20include,which%20color%20spaces%20they%20require.)
+`AdobeRGB` Just a wider color space [More info](https://expertphotography.com/srgb-vs-adobe-rgb/#:~:text=SRGB%20and%20Adobe%20RGB%20include,which%20color%20spaces%20they%20require.) [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616746.html)
 
 ### Media
 #### Rec. Media Settings
-I use two Cards the first one is a fast CFExpress card and the second one a V60 SD card therefore i place the RAW images on the CFexpress card and JPEG/Video to the SD card.
+I use two Cards the first one is a fast CFExpress card and the second one a V60 SD card therefore i place the RAW images on the CFexpress card and JPEG/Video to the SD card. [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000659384.html)
 * Camera Recording MEdia: `Sort Recording`
 * Video Recording Media: `Slot 2`
 * Auto Switch Media `OFF`
@@ -55,6 +55,7 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 
 ### File
 #### File/Folder Settings
+[MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656912.html)
 * File Number `Series`
 * Set File Name `A74`
 * Folder Name `Standard Form`
@@ -64,71 +65,74 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 `Off`
 
 #### Copyright Info
+[MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640873.html)
 * Write Copyright info `ON`
 * Set Photographer `Ronald van Heugten`
 * Set Copyright `All Rights Reserved.`
 
 #### Wite Serial Number
-`ON` Writes serialnumber to EXIF data
+`ON` Writes serialnumber to EXIF data [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/search/search.html)
 
 ### Shutter/Silent
 #### Release w/o Lens
-`Disable` When the lens is disconnected you can't make pictures
+`Disable` When the lens is disconnected you can't make pictures [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616717.html)
 
 ### Shooting Display
 #### Grid Line Display
-`ON` Shows the gridlines on screen. Makes aligning easy.
+`ON` Shows the gridlines on screen. Makes aligning easy. [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640824.html)
 
 #### Grid Line Type
-`Rule of 3rds Grid` 3x3 grid on screen
+`Rule of 3rds Grid` 3x3 grid on screen [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000657972.html)
 
 #### 📹 Emphasized REC Display
-`On` Shows RED border around the screen indicating that you are recording. otherwise you only see a text REC on screen.
+`On` Shows RED border around the screen indicating that you are recording. otherwise you only see a text REC on screen. [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000658000.html)
 
 ### Drive Mode
 #### Bracket Settings
+[MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000641005.html)
 * Selftimer during Bracket `2 Sec`
 * Bracket order `- > 0 > +` Underexposed > Normal exposure > Over exposed 
 #### Interval Shoot Func.
-* Shutter Type in Interval `Mechanica Shutter`
+* Shutter Type in Interval `Mechanica Shutter` [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656452.html)
 
 ## Exposure/Color
 ### White Balance
 #### Shutter AWB Lock
-`Cont/ Shooting` Keeps Auto White Balance locked while continus shooting (Bursting)
+`Cont/ Shooting` Keeps Auto White Balance locked while continus shooting (Bursting) [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656461.html)
 
 ### Color/Tone
 #### Creative Look
-`ST` For all options and info about them look at [this](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640837.html?search=Creative%20Look)
+`ST` For all options and info about them look at [Manual](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640837.html)
 
 ### Zebra Display
 #### Zebra Display
-`ON` This highlights the almost overexposed parts of the image
+`ON` This highlights the almost overexposed parts of the image [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000655353.html)
 
 ## Focus
 ### Focus Area
 #### Focus Area Color
-`Red` Red focus thingy normaley it's white.
+`Red` Red focus thingy normaley it's white. [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656918.html)
 
 ### Face/Eye AF
 #### Face/Eye Frame display
-`On` Shows white box aroud focused face
+`On` Shows white box aroud focused face [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000657948.html)
 
 ### Peaking Display
 #### Peaking Display
-`On` Shows colored dots on the screen for everything thats in focus
+`On` Shows colored dots on the screen for everything thats in focus [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000655327.html)
 
 #### Peaking Color
-`Red` Shows the focus dots in the selected color
+`Red` Shows the focus dots in the selected color [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000655327.html)
 
 ## Playback
 ### Playback Option
 #### Focus Frame Display
-`On` Show focus point on playback images.
+`On` Show focus point on playback images. [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000657992.html)
 
 ## Network
 ### Transfer/Remote
 #### FTP Transfer Func.
+[MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000653558.html) [MANUAL](https://helpguide.sony.net/di/ftp_2110/v1/en/contents/TP1000657890.html) [MANUAL](https://helpguide.sony.net/di/ftp_2110/v1/en/contents/TP1000657888.html)
 * FTP Function `ON`
 * Auto FTP Transfer `ON` Automatic upload of new images if connected to networking
 * Server Setting `Server 1` What server profile to connect with
@@ -143,18 +147,19 @@ NOTE: Check password manager for info
 
 ### Network Option
 #### Edit Device Name
+[MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616509.html)
 `WAAAGH-A7iv` Network Hostname
 
 ### Wi-Fi
 #### VHHQ
-Thuis netwerk
+Thuis netwerk [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616508.html)
 | Name | `VHHQ` |
 | ------------- | ------------- |
 | Pass | `SECRET` |
 | Priority Connection | `YES` |
 
 #### SkyNET
-Skynet is my mobile hotspot
+Skynet is my mobile hotspot [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616508.html)
 | Name | `SkyNET` |
 | ------------- | ------------- |
 | Pass | `SECRET` |
@@ -163,26 +168,26 @@ Skynet is my mobile hotspot
 ## Setup
 ### Area/Date
 #### Language
-`English` Easy to google stuff
+`English` Easy to google stuff [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000617763.html)
 
-#### Area/Date/Time Setting
+### Area/Date/Time Setting
 ##### Area Setting
-`Europe/Berlin` i live in the same timezone
+`Europe/Berlin` i live in the same timezone [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616548.html)
 
 ### Date
-Set to correct time and date
+Set to correct time and date [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616548.html) 
 
 ### Date Format
-`Y-M-D` Year - Month - Day, Love this way of ordering in life
+`Y-M-D` Year - Month - Day, Love this way of ordering in life [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616548.html) 
 
 ### Display Option
 #### Auto Review
-`2 Sec` Shows Last image for review after each shot. Shows last picture in burst mode.
+`2 Sec` Shows Last image for review after each shot. Shows last picture in burst mode. [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616748.html)
 
 ### Power Setting Option
 #### Auto Power OFF Temp.
-`High` While recording video the camera gets hotter. You can get a little bit more working time out the camera when set to High
+`High` While recording video the camera gets hotter. You can get a little bit more working time out the camera when set to High [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000653559.html)
 
 ### Setup Option
-#### Anti-Fust Function
-* Shutter when PWR OFF `On` Close shutter when camera is off. prevents dust on the sensor.
+#### Anti-Dust Function
+* Shutter when PWR OFF `On` Close shutter when camera is off. prevents dust on the sensor. [MANUAL](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000659439.html)
