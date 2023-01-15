@@ -1,9 +1,14 @@
 # Sony-A7-iv
 Everything about my Sony Alpha 7 iv
 
+## Online Manual
+* [Enlish](https://helpguide.sony.net/ilc/2110/v1/en/index.html)
+* [Dutch](https://helpguide.sony.net/ilc/2110/v1/nl/index.html)
+
+## Settings
 [My Settings](Profile.md)
 
-# Gear
+## Gear
 * Sony A7 Mark 4 (ILCE-7M4) https://www.kamera-express.nl/sony-a7-iv-sony-fe-24-105mm-f-4-0-g-
   * Lens Sony 4/24-105 G OSS (SEL24105G)
   * [SONY 80GB CFEXPRESS TYPE-A TOUGH MEMORY CARD (CEAG80T.SYM)](https://www.kamera-express.nl/sony-80gb-cfexpress-type-a-tough-memory-car-12343739)
@@ -16,7 +21,3 @@ Everything about my Sony Alpha 7 iv
 * [Lenspen Elite Original](https://www.coolblue.nl/product/114948/lenspen-elite-original.html}
 * [Caruba Lens Blower](https://www.coolblue.nl/product/611923/caruba-lens-blower.html)
 * [Peak Design Slide Zwart](https://www.coolblue.nl/product/805286/peak-design-slide-zwart.html)
-  
-# Manual
-* [Enlish](https://helpguide.sony.net/ilc/2110/v1/en/index.html)
-* [Dutch](https://helpguide.sony.net/ilc/2110/v1/nl/index.html)
