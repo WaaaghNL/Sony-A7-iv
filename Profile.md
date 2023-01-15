@@ -3,8 +3,8 @@ This is an overview for the settings i use for my Sony Alpha 7 mark 4. This page
 
 ## Page Rules
 * Setting are shown between the quotes `like this` and followed by the explanation of the option.
-* Settings in PHOTO/:camera: mode are using the title `:camera: <NAME>`
-* Settings in VIDEO/:video_camera: mode are using the title `:video_camera: <NAME>`
+* Every setting is set from PICTURE mode
+* If the setting is only availeble in VIDEO mode the prefix of the settingname contains the :video_camera: icon.
 
 # Default Settings
 A overview of the camera factory defaults.
@@ -69,6 +69,9 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 #### Grid Line Type
 `Rule of 3rds Grid` 3x3 grid on screen
 
+#### 📹 Emphasized REC Display
+`On` Shows RED border around the screen indicating that you are recording. otherwise you only see a text REC on screen.
+
 ### Drive Mode
 #### Bracket Settings
 * Selftimer during Bracket `2 Sec`
@@ -80,9 +83,35 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 ### White Balance
 #### Shutter AWB Lock
 `Cont/ Shooting` Keeps Auto White Balance locked while continus shooting (Bursting)
+
+### Color/Tone
+#### Creative Look
+`ST` For all options and info about them look at [this](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640837.html?search=Creative%20Look)
+
 ### Zebra Display
 #### Zebra Display
 `ON` This highlights the almost overexposed parts of the image
+
+## Focus
+### Focus Area
+#### Focus Area Color
+`Red` Red focus thingy normaley it's white.
+
+### Face/Eye AF
+#### Face/Eye Frame display
+`On` Shows white box aroud focused face
+
+### Peaking Display
+#### Peaking Display
+`On` Shows colored dots on the screen for everything thats in focus
+
+#### Peaking Color
+`Red` Shows the focus dots in the selected color
+
+## Playback
+### Playback Option
+#### Focus Frame Display
+`On` Show focus point on playback images.
 
 ## Network
 ### Transfer/Remote
@@ -136,3 +165,11 @@ Set to correct time and date
 ### Display Option
 #### Auto Review
 `2 Sec` Shows Last image for review after each shot. Shows last picture in burst mode.
+
+### Power Setting Option
+#### Auto Power OFF Temp.
+`High` While recording video the camera gets hotter. You can get a little bit more working time out the camera when set to High
+
+### Setup Option
+#### Anti-Fust Function
+* Shutter when PWR OFF `On` Close shutter when camera is off. prevents dust on the sensor.
