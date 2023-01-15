@@ -1,14 +1,10 @@
-# Sony-A7-Profiles
-My Settings for the Sony A7 iv
+# My Settings Profile
+My settings for the Sony A7 iv
 
 # Rules
 * Setting are shown between the quotes `like this` and followed by the explanation of the option.
 * Settings in PHOTO/:camera: mode are using the title `:camera: <NAME>`
 * Settings in VIDEO/:video_camera: mode are using the title `:video_camera: <NAME>`
-
-# Manual
-* [Enlish](https://helpguide.sony.net/ilc/2110/v1/en/index.html)
-* [Dutch](https://helpguide.sony.net/ilc/2110/v1/nl/index.html)
 
 # Default Settings
 * [Enlish](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000660154.html)
