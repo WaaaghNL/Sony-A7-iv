@@ -2,7 +2,7 @@
 This is an overview for the settings i use for my Sony Alpha 7 mark 4. This page is always changing en evolving with my increasing skillset. All the settings you see below are based on the factory defaults and the changes i made to that.
 
 ## Backup
-Before changing your settings please back them up it's not hard. Remember i told you!
+Before changing your settings please back them up it's not hard. Remember i told you! [Manual])https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656910.html)
 * Backup `Menu > Setup > Reset / Save Settings > Save/Load Settings > Save`
 * Restore `Menu > Setup > Reset / Save Settings > Save/Load Settings > Load`.
 
