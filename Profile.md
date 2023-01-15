@@ -59,6 +59,10 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 * Set File Name `A74`
 * Folder Name `Standard Form`
 
+### :video_camera Audio Recording
+#### :video_camera: Wind Noice Reduct.
+`Off`
+
 #### Copyright Info
 * Write Copyright info `ON`
 * Set Photographer `Ronald van Heugten`
