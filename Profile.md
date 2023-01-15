@@ -1,18 +1,17 @@
 # My Settings Profile
-My settings for the Sony A7 iv
+This is an overview for the settings i use for my Sony Alpha 7 mark 4. This page is always changing en evolving with my increasing skillset. All the settings you see below are based on the factory defaults and the changes i made to that.
 
-# Rules
+## Page Rules
 * Setting are shown between the quotes `like this` and followed by the explanation of the option.
 * Settings in PHOTO/:camera: mode are using the title `:camera: <NAME>`
 * Settings in VIDEO/:video_camera: mode are using the title `:video_camera: <NAME>`
 
 # Default Settings
+A overview of the camera factory defaults.
 * [Enlish](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000660154.html)
 * [Dutch](https://helpguide.sony.net/ilc/2110/v1/nl/contents/TP1000660901.html)
 
 # Settings
-This profile is my basic Profile and it contains the following settings
-
 ## Shooting
 ### Image Quality
 ##### Image Quality Settings
