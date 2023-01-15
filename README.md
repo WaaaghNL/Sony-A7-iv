@@ -28,7 +28,11 @@ Visable after setting up `Shooting > Image Quality > Media > Rec. Media Settings
 | JPEG Quality | - | Extra Fine |
 | JPEG Image Size | - | L: 33M |
 
-#### VIDEO 
+#### :video_camera: File Format
+`XAVC HS 4K`
+#### :video_camera: Movie Settings
+* Record Setting `100M 4:2:2 10bit` Records in 100Mbps, 4:2:2, and 10bit.
+
 #### Long Exposure NR
 `OFF` Long Exposure NR Removes the noice by taking a second picture with the mechanical shutter closed and compensates the first image with it. This setting dubbels the time it takes to create one Long Exposure image
 
