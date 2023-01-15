@@ -14,21 +14,8 @@ My Settings for the Sony A7 iv
 * [Enlish](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000660154.html)
 * [Dutch](https://helpguide.sony.net/ilc/2110/v1/nl/contents/TP1000660901.html)
 
-# BASELINE.DAT
+# Settings
 This profile is my basic Profile and it contains the following settings
-
-## Init
-### Language
-`English` Makes googling for settings easy
-
-### Area
-`Europe/Berlin` i live in the same timezone
-
-### Date Format
-`Y-M-D` Year - Month - Day, Love this way of ordering in life
-
-### Date
-Set to correct time and date
 
 ## Shooting
 ### Image Quality
@@ -107,11 +94,6 @@ NOTE: Check password manager for info
 #### Edit Device Name
 `WAAAGH-A7iv` Network Hostname
 
-## Setup
-### Display Option
-#### Auto Review
-`2 Sec` Shows Last image for review after each shot. Shows last picture in burst mode.
-
 ### Wi-Fi
 #### VHHQ
 Thuis netwerk
@@ -126,3 +108,22 @@ Skynet is my mobile hotspot
 | ------------- | ------------- |
 | Pass | `SECRET` |
 | Priority Connection | `NO` |
+
+## Setup
+### Area/Date
+#### Language
+`English` Easy to google stuff
+
+#### Area/Date/Time Setting
+##### Area Setting
+`Europe/Berlin` i live in the same timezone
+
+### Date
+Set to correct time and date
+
+### Date Format
+`Y-M-D` Year - Month - Day, Love this way of ordering in life
+
+### Display Option
+#### Auto Review
+`2 Sec` Shows Last image for review after each shot. Shows last picture in burst mode.
