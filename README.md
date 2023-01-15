@@ -18,7 +18,7 @@ Everything about my Sony Alpha 7 iv
   * [LARMOR SA SCREEN PROTECTOR SONY A7IV](https://www.kamera-express.nl/larmor-sa-screen-protector-sony-a7iv)
 * Backpack [Thule Aspect Camera Backpack DSLR](https://www.coolblue.nl/product/753478/thule-aspect-camera-backpack-dslr.html)
 * Tripod [SIRUI T-1004XL TRAVELLER + E-10 HEAD](https://www.kamera-express.nl/sirui-t-1004xl-traveller-e-10-head)
-* [Lenspen Elite Original](https://www.coolblue.nl/product/114948/lenspen-elite-original.html}
+* [Lenspen Elite Original](https://www.coolblue.nl/product/114948/lenspen-elite-original.html)
 * [Caruba Lens Blower](https://www.coolblue.nl/product/611923/caruba-lens-blower.html)
 * [Peak Design Slide Zwart](https://www.coolblue.nl/product/805286/peak-design-slide-zwart.html)
 
