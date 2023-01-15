@@ -2,7 +2,9 @@
 My Settings for the Sony A7 iv
 
 # Rules
-Setting are shown between the quotes `like this` and followed by the explanation of the option.
+* Setting are shown between the quotes `like this` and followed by the explanation of the option.
+* Settings in PHOTO/:camera: mode are using the title `:camera: <NAME>`
+* Settings in VIDEO/:video_camera: mode are using the title `:video_camera: <NAME>`
 
 # Manual
 * [Enlish](https://helpguide.sony.net/ilc/2110/v1/en/index.html)
@@ -39,6 +41,7 @@ Visable after setting up `Shooting > Image Quality > Media > Rec. Media Settings
 | JPEG Quality | - | Extra Fine |
 | JPEG Image Size | - | L: 33M |
 
+#### VIDEO 
 #### Long Exposure NR
 `OFF` Long Exposure NR Removes the noice by taking a second picture with the mechanical shutter closed and compensates the first image with it. This setting dubbels the time it takes to create one Long Exposure image
 
