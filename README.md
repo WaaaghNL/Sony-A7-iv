@@ -24,3 +24,4 @@ Everything about my Sony Alpha 7 iv
 
 ## Nice to Knows
 * [Sony A7 IV Beginners Guide - Set-Up, Menus, & How-To Use the Camera](https://www.youtube.com/watch?v=Vt3g42Y56jI&t=9s&ab_channel=JasonHermann)
+* [Sony a7 IV Setup Guide for Photo & Video | EXTREMELY DETAILED](https://www.youtube.com/watch?v=_IXJTYx7iGI)
