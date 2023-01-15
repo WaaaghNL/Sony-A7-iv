@@ -21,3 +21,6 @@ Everything about my Sony Alpha 7 iv
 * [Lenspen Elite Original](https://www.coolblue.nl/product/114948/lenspen-elite-original.html}
 * [Caruba Lens Blower](https://www.coolblue.nl/product/611923/caruba-lens-blower.html)
 * [Peak Design Slide Zwart](https://www.coolblue.nl/product/805286/peak-design-slide-zwart.html)
+
+## Nice to Knows
+* [Sony A7 IV Beginners Guide - Set-Up, Menus, & How-To Use the Camera](https://www.youtube.com/watch?v=Vt3g42Y56jI&t=9s&ab_channel=JasonHermann)
