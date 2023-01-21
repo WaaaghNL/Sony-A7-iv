@@ -109,6 +109,9 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 `ON` This highlights the almost overexposed parts of the image [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000655353.html)
 
 ## Focus
+### AF/MF
+#### AF Illuminator
+`Off` Turns of the orange light for night focus 
 ### Focus Area
 #### Focus Area Color
 `Red` Red focus thingy normaley it's white. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656918.html)
