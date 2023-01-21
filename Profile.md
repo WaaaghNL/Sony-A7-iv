@@ -187,7 +187,3 @@ Set to correct time and date [:notebook:](https://helpguide.sony.net/ilc/2110/v1
 ### Power Setting Option
 #### Auto Power OFF Temp.
 `High` While recording video the camera gets hotter. You can get a little bit more working time out the camera when set to High [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000653559.html)
-
-### Setup Option
-#### Anti-Dust Function
-* Shutter when PWR OFF `On` Close shutter when camera is off. prevents dust on the sensor. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000659439.html)
