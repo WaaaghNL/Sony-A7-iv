@@ -190,15 +190,21 @@ Skynet is my mobile hotspot [:notebook:](https://helpguide.sony.net/ilc/2110/v1/
 #### Language
 `English` Easy to google stuff [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000617763.html)
 
-### Area/Date/Time Setting
+#### Area/Date/Time Setting
 ##### Area Setting
 `Europe/Berlin` i live in the same timezone [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616548.html)
 
-### Date
+##### Date/Time
 Set to correct time and date [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616548.html) 
 
-### Date Format
+##### Date Format
 `Y-M-D` Year - Month - Day, Love this way of ordering in life [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616548.html) 
+### Dail Customize
+#### Camera Custom Key/Dial Set.
+1. Front Dial -> Av(m)/Tv
+2. Rear Dial L -> Av/Tv(m)
+3. Rair Dial R -> ISO
+4. controol Wheel -> Exposure Comp
 
 ### Display Option
 #### Auto Review
