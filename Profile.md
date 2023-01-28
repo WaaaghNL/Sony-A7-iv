@@ -128,19 +128,25 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 `Red` Shows the focus dots in the selected color [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000655327.html)
 
 ## Playback
+### Playback Target
+Select Playback Media 'Slot 1' This is also the card that gets uploaded to the FTP Server
+
 ### Playback Option
 #### Focus Frame Display
 `On` Show focus point on playback images. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000657992.html)
 
 ## Network
 ### Transfer/Remote
+Warning: Check the Playback -> Playback target to select the card to backup via FTP!
+
 #### FTP Transfer Func.
 [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000653558.html) [:notebook: Registering an FTP server](https://helpguide.sony.net/di/ftp_2110/v1/en/contents/TP1000657890.html) [:notebook: Connecting to an FTP server](https://helpguide.sony.net/di/ftp_2110/v1/en/contents/TP1000657888.html)
 * FTP Function `ON`
 * Auto FTP Transfer `ON` Automatic upload of new images if connected to networking
 * Server Setting `Server 1` What server profile to connect with
 
-##### Server 1
+##### Server setting
+###### Server 1
 | Display Name | `NAS` | 
 | ------------- | ------------- |
 | Hostname | `SECRET` | 
@@ -148,25 +154,36 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 | Password | `SECRET` |
 NOTE: Check password manager for info
 
+#### FTP Transfer
+* Target Group 'This Media'
+* Transfer Status 'Only Non Transfer'
+
+#### RAW+J/H Transfer Target
+'RAW+J & RAW+H' Upload everything from the selected card.
+
 ### Network Option
 #### Edit Device Name
 [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616509.html)
 `WAAAGH-A7iv` Network Hostname
 
 ### Wi-Fi
-#### VHHQ
+#### Acces Point Set.
+##### VHHQ
 Thuis netwerk [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616508.html)
 | Name | `VHHQ` |
 | ------------- | ------------- |
 | Pass | `SECRET` |
 | Priority Connection | `YES` |
 
-#### SkyNET
+##### SkyNET
 Skynet is my mobile hotspot [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616508.html)
 | Name | `SkyNET` |
 | ------------- | ------------- |
 | Pass | `SECRET` |
 | Priority Connection | `NO` |
+
+#### Wi-Fi Frequentcy Band
+'5Ghz' Only set it to this when you know that there is a 5Ghz band available
 
 ## Setup
 ### Area/Date
