@@ -207,3 +207,8 @@ Set to correct time and date [:notebook:](https://helpguide.sony.net/ilc/2110/v1
 ### Power Setting Option
 #### Auto Power OFF Temp.
 `High` While recording video the camera gets hotter. You can get a little bit more working time out the camera when set to High [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000653559.html)
+
+
+# Backup the SHIT!
+* Backup the FTP Settings > NEtwork > Transfer/Remote > FTP Transfer Func. > Save/Load FTP Settings > Use Wizard!
+* Backup the Settings Settings > Save/Load Settings > Use wizard!
