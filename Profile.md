@@ -200,6 +200,10 @@ Set to correct time and date [:notebook:](https://helpguide.sony.net/ilc/2110/v1
 ##### Date Format
 `Y-M-D` Year - Month - Day, Love this way of ordering in life [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616548.html) 
 ### Dail Customize
+#### Rear 1
+1. C1 -> Focus Area
+#### Top
+1. C2 -> White Balance
 #### Camera Custom Key/Dial Set.
 1. Front Dial -> Av(m)/Tv
 2. Rear Dial L -> Av/Tv(m)
@@ -216,5 +220,5 @@ Set to correct time and date [:notebook:](https://helpguide.sony.net/ilc/2110/v1
 
 
 # Backup the SHIT!
-* Backup the FTP Settings > NEtwork > Transfer/Remote > FTP Transfer Func. > Save/Load FTP Settings > Use Wizard!
+* Backup the FTP Settings > Network > Transfer/Remote > FTP Transfer Func. > Save/Load FTP Settings > Use Wizard!
 * Backup the Settings Settings > Save/Load Settings > Use wizard!
