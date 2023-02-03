@@ -23,14 +23,23 @@ A overview of the camera factory defaults.
 # Settings
 ## Shooting
 ### Image Quality
-##### Image Quality Settings
+#### Image Quality Settings
 Visable after setting up `Shooting > Image Quality > Media > Rec. Media Settings` [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000659384.html)
+
+##### Option 1 Split Raw en JPG
 | Option | Slot 1 | Slot 2 |
 | ------------- | ------------- | ------------- |
 | File Format | RAW | JPEG |
 | RAW File Type | Lossless Comp (L) | - |
 | JPEG Quality | - | Extra Fine |
 | JPEG Image Size | - | L: 33M |
+##### Option 2 record to both
+| Option | Slot 1 & Slot 2 |
+| ------------- | ------------- |
+| File Format | RAW + JPEG |
+| RAW File Type | Lossless Comp (L) |
+| JPEG Quality | Extra Fine |
+| JPEG Image Size | L: 33M |
 
 #### :video_camera: File Format
 `XAVC HS 4K` [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640835.html)
@@ -46,9 +55,9 @@ Visable after setting up `Shooting > Image Quality > Media > Rec. Media Settings
 ### Media
 #### Rec. Media Settings
 I use two Cards the first one is a fast CFExpress card and the second one a V60 SD card therefore i place the RAW images on the CFexpress card and JPEG/Video to the SD card. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000659384.html)
-* Camera Recording MEdia: `Sort Recording`
-* Video Recording Media: `Slot 2`
-* Auto Switch Media `OFF`
+* Camera Recording Media: `Sort Recording` (used with option 1 in the `Image Quality Settings`) OR `Simult. Recording` (used with option 2 in the `Image Quality Settings`) 
+* Video Recording Media: `Slot 1` / `Slot 2` Normaly i choose the biggest card here OR i use `Simult. Recording` if the recording is importend to keep safe
+* Auto Switch Media `ON` If one card is full just go on with the extra card.
 
 ##### Image Quality Settings
 Look at `Shooting > Image Quality > Image Quality Settings`
