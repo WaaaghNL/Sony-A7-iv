@@ -66,7 +66,7 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 #### File/Folder Settings
 [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656912.html)
 * File Number `Series`
-* Set File Name `A74`
+* Set File Name `RVH`
 * Folder Name `Standard Form`
 
 ### :video_camera: Audio Recording
