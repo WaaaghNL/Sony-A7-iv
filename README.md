@@ -11,6 +11,7 @@ Everything about my Sony Alpha 7 iv
 ## Gear
 * Sony A7 Mark 4 (ILCE-7M4) https://www.kamera-express.nl/sony-a7-iv-sony-fe-24-105mm-f-4-0-g-
   * Lens Sony 4/24-105 G OSS (SEL24105G)
+  * Tamron 17-28mm f/2.8 Di III RXD Sony E
   * [SONY 80GB CFEXPRESS TYPE-A TOUGH MEMORY CARD (CEAG80T.SYM)](https://www.kamera-express.nl/sony-80gb-cfexpress-type-a-tough-memory-car-12343739)
   * [LEXAR SDXC PROFESSIONAL 256GB 1667X UHS-II](https://www.kamera-express.nl/lexar-sdxc-professional-256gb-1667x-uhs-ii-)
   * [SONY NP-FZ100](https://www.kamera-express.nl/sony-np-fz100-oplaadbare-accu-npfz100-ce-)
