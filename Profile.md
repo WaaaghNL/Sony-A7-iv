@@ -33,7 +33,7 @@ Visable after setting up `Shooting > Image Quality > Media > Rec. Media Settings
 | RAW File Type | Lossless Comp (L) | - |
 | JPEG Quality | - | Extra Fine |
 | JPEG Image Size | - | L: 33M |
-##### Option 2 record to both
+##### Option 2 record to both (used by me)
 | Option | Slot 1 & Slot 2 |
 | ------------- | ------------- |
 | File Format | RAW + JPEG |
@@ -48,6 +48,9 @@ Visable after setting up `Shooting > Image Quality > Media > Rec. Media Settings
 
 #### Long Exposure NR
 `OFF` Long Exposure NR Removes the noice by taking a second picture with the mechanical shutter closed and compensates the first image with it. This setting dubbels the time it takes to create one Long Exposure image [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656583.html)
+
+#### High ISO NR
+`OFF` When shooting with high ISO sensitivity, the product reduces noise that becomes more noticeable when the product sensitivity is high. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640825.html)
 
 #### Color Space
 `AdobeRGB` Just a wider color space [More info](https://expertphotography.com/srgb-vs-adobe-rgb/#:~:text=SRGB%20and%20Adobe%20RGB%20include,which%20color%20spaces%20they%20require.) [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616746.html)
@@ -86,6 +89,9 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 #### Release w/o Lens
 `Disable` When the lens is disconnected you can't make pictures [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616717.html)
 
+#### Release w/o Card
+`Disable` Sets whether the shutter can be released when no memory card has been inserted [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640822.html)
+
 ### Shooting Display
 #### Grid Line Display
 `ON` Shows the gridlines on screen. Makes aligning easy. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640824.html)
@@ -111,7 +117,7 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 
 ### Color/Tone
 #### Creative Look
-`ST` For all options and info about them look at [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640837.html)
+`VV` For all options and info about them look at [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640837.html) [Some examples](https://www.youtube.com/watch?app=desktop&v=GzWmGm8j8QU)
 
 ### Zebra Display
 #### Zebra Display
@@ -119,11 +125,15 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 
 ## Focus
 ### AF/MF
+#### Focus Mode
+`Continuous AF` Selects the focus method to suit the movement of the subject. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000649113.html)
 #### AF Illuminator
 `Off` Turns of the orange light for night focus 
 ### Focus Area
 #### Focus Area Color
 `Red` Red focus thingy normaley it's white. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656918.html)
+#### Circ. of Focus Point
+`Circulate` let move the focus box move out of frame and pop in on the other side.
 
 ### Face/Eye AF
 #### Face/Eye Frame display
