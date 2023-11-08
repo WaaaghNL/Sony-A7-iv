@@ -229,15 +229,21 @@ Set to correct time and date [:notebook:](https://helpguide.sony.net/ilc/2110/v1
 3. Rair Dial R -> ISO
 4. controol Wheel -> Exposure Comp
 
+### Finder/Monitor
+#### Display Quality
+`High` You can change the display quality. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616538.html)
+
 ### Display Option
+#### Remain Shoot Display
+`Always Display` Sets whether or not to display an indicator of the remaining number of still images that can be continuously shot at the same shooting speed. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000653512.html)
 #### Auto Review
-`2 Sec` Shows Last image for review after each shot. Shows last picture in burst mode. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616748.html)
+`Off` Shows Last image for review after each shot. Shows last picture in burst mode. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616748.html)
 
 ### Power Setting Option
 #### Auto Monitor OFF
-`1 Min`
+`Does not turn OFF`
 #### Power Save Start Time
-`2 Min`
+`1 Min`
 #### Auto Power OFF Temp.
 `High` While recording video the camera gets hotter. You can get a little bit more working time out the camera when set to High [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000653559.html)
 
