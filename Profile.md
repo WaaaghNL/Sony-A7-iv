@@ -183,6 +183,9 @@ NOTE: Check password manager for info
 `RAW+J & RAW+H` Upload everything from the selected card.
 
 ### 3 Wi-Fi
+#### Wi-Fi Connect
+`On` Enable Wifi for FTP
+
 #### Acces Point Set.
 ##### VHHQ
 Thuis netwerk [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616508.html)
