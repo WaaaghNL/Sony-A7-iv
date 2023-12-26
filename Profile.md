@@ -22,7 +22,7 @@ A overview of the camera factory defaults.
 
 # Settings
 ## Shooting
-### Image Quality
+### 1 Image Quality
 #### Image Quality Settings
 Visable after setting up `Shooting > Image Quality > Media > Rec. Media Settings` [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000659384.html)
 
@@ -55,7 +55,7 @@ Visable after setting up `Shooting > Image Quality > Media > Rec. Media Settings
 #### Color Space
 `AdobeRGB` Just a wider color space [More info](https://expertphotography.com/srgb-vs-adobe-rgb/#:~:text=SRGB%20and%20Adobe%20RGB%20include,which%20color%20spaces%20they%20require.) [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616746.html)
 
-### Media
+### 2 Media
 #### Rec. Media Settings
 I use two Cards the first one is a fast CFExpress card and the second one a V60 SD card therefore i place the RAW images on the CFexpress card and JPEG/Video to the SD card. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000659384.html)
 * Camera Recording Media: `Sort Recording` (used with option 1 in the `Image Quality Settings`) OR `Simult. Recording` (used with option 2 in the `Image Quality Settings`) 
@@ -65,7 +65,7 @@ I use two Cards the first one is a fast CFExpress card and the second one a V60 
 ##### Image Quality Settings
 Look at `Shooting > Image Quality > Image Quality Settings`
 
-### File
+### 3 File
 #### File/Folder Settings
 [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656912.html)
 * File Number `Series`
@@ -85,14 +85,7 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 #### Wite Serial Number
 `ON` Writes serialnumber to EXIF data [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/search/search.html)
 
-### Shutter/Silent
-#### Release w/o Lens
-`Disable` When the lens is disconnected you can't make pictures [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616717.html)
-
-#### Release w/o Card
-`Disable` Sets whether the shutter can be released when no memory card has been inserted [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640822.html)
-
-### Shooting Display
+### 4 Shooting Display
 #### Grid Line Display
 `ON` Shows the gridlines on screen. Makes aligning easy. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640824.html)
 
@@ -102,7 +95,7 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 #### 📹 Emphasized REC Display
 `On` Shows RED border around the screen indicating that you are recording. otherwise you only see a text REC on screen. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000658000.html)
 
-### Drive Mode
+### 6 Drive Mode
 #### Bracket Settings
 [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000641005.html)
 * Selftimer during Bracket `2 Sec`
@@ -110,36 +103,43 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 #### Interval Shoot Func.
 * Shutter Type in Interval `Mechanica Shutter` [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656452.html)
 
-## Exposure/Color
-### White Balance
-#### Shutter AWB Lock
-`Cont/ Shooting` Keeps Auto White Balance locked while continus shooting (Bursting) [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656461.html)
+### 7 Shutter/Silent
+#### Release w/o Lens
+`Disable` When the lens is disconnected you can't make pictures [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616717.html)
 
-### Color/Tone
+#### Release w/o Card
+`Disable` Sets whether the shutter can be released when no memory card has been inserted [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640822.html)
+
+## Exposure/Color
+### 5 White Balance
+#### Shutter AWB Lock
+`Cont. Shooting` Keeps Auto White Balance locked while continus shooting (Bursting) [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656461.html)
+
+### 6 Color/Tone
 #### Creative Look
 `VV` For all options and info about them look at [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000640837.html) [Some examples](https://www.youtube.com/watch?app=desktop&v=GzWmGm8j8QU)
 
-### Zebra Display
+### 7 Zebra Display
 #### Zebra Display
 `ON` This highlights the almost overexposed parts of the image [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000655353.html)
 
 ## Focus
-### AF/MF
+### 1 AF/MF
 #### Focus Mode
 `Continuous AF` Selects the focus method to suit the movement of the subject. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000649113.html)
 #### AF Illuminator
 `Off` Turns of the orange light for night focus 
-### Focus Area
+### 2 Focus Area
 #### Focus Area Color
 `Red` Red focus thingy normaley it's white. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000656918.html)
 #### Circ. of Focus Point
 `Circulate` let move the focus box move out of frame and pop in on the other side.
 
-### Face/Eye AF
+### 3 Face/Eye AF
 #### Face/Eye Frame display
 `On` Shows white box aroud focused face [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000657948.html)
 
-### Peaking Display
+### 5 Peaking Display
 #### Peaking Display
 `On` Shows colored dots on the screen for everything thats in focus [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000655327.html)
 
@@ -147,16 +147,18 @@ Look at `Shooting > Image Quality > Image Quality Settings`
 `Red` Shows the focus dots in the selected color [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000655327.html)
 
 ## Playback
-### Playback Target
-Select Playback Media 'Slot 1' This is also the card that gets uploaded to the FTP Server
+### 1 Playback Target
+Select Playback Media `Slot 1` This is also the card that gets uploaded to the FTP Server
 
-### Playback Option
+### 7 Playback Option
 #### Focus Frame Display
 `On` Show focus point on playback images. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000657992.html)
 
 ## Network
-### Transfer/Remote
+### ? Transfer/Remote
 Warning: Check the Playback -> Playback target to select the card to backup via FTP!
+
+### 2 FTP Transfer
 
 #### FTP Transfer Func.
 [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000653558.html) [:notebook: Registering an FTP server](https://helpguide.sony.net/di/ftp_2110/v1/en/contents/TP1000657890.html) [:notebook: Connecting to an FTP server](https://helpguide.sony.net/di/ftp_2110/v1/en/contents/TP1000657888.html)
@@ -174,18 +176,13 @@ Warning: Check the Playback -> Playback target to select the card to backup via 
 NOTE: Check password manager for info
 
 #### FTP Transfer
-* Target Group 'This Media'
-* Transfer Status 'Only Non Transfer'
+* Target Group `This Media`
+* Transfer Status `Only Non Transfer`
 
 #### RAW+J/H Transfer Target
-'RAW+J & RAW+H' Upload everything from the selected card.
+`RAW+J & RAW+H` Upload everything from the selected card.
 
-### Network Option
-#### Edit Device Name
-[:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616509.html)
-`WAAAGH-A7iv` Network Hostname
-
-### Wi-Fi
+### 3 Wi-Fi
 #### Acces Point Set.
 ##### VHHQ
 Thuis netwerk [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616508.html)
@@ -201,11 +198,16 @@ Skynet is my mobile hotspot [:notebook:](https://helpguide.sony.net/ilc/2110/v1/
 | Pass | `SECRET` |
 | Priority Connection | `NO` |
 
+### 7 Network Option
+#### Edit Device Name
+[:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616509.html)
+`WaaaaghNL-A7iv` Network Hostname
+
 #### Wi-Fi Frequentcy Band
 '5Ghz' Only set it to this when you know that there is a 5Ghz band available
 
 ## Setup
-### Area/Date
+### 1 Area/Date
 #### Language
 `English` Easy to google stuff [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000617763.html)
 
@@ -218,28 +220,29 @@ Set to correct time and date [:notebook:](https://helpguide.sony.net/ilc/2110/v1
 
 ##### Date Format
 `Y-M-D` Year - Month - Day, Love this way of ordering in life [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616548.html) 
-### Dail Customize
-#### Rear 1
-1. C1 -> Focus Area
-#### Top
-1. C2 -> White Balance
-#### Camera Custom Key/Dial Set.
-1. Front Dial -> Av(m)/Tv
-2. Rear Dial L -> Av/Tv(m)
-3. Rair Dial R -> ISO
-4. controol Wheel -> Exposure Comp
 
-### Finder/Monitor
+### 4 Dail Customize
+#### Rear 1
+3. C1 -> Purple/Focus Area/Focus Area
+#### Top
+2. C2 -> Pink/White Balance/White Balance
+#### Dail/Wheel
+1. Front Dial -> Pink/Exposure/Av/Tv Av in M Mode
+2. Rear Dial L -> Pink/Exposure/Av/Tv Tv in M Mode
+3. Rair Dial R -> Pink/Exposure/ISO
+4. Control Wheel -> Pink/Exposure Comp./Exposure Comp
+
+### 6 Finder/Monitor
 #### Display Quality
 `High` You can change the display quality. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616538.html)
 
-### Display Option
+### 7 Display Option
 #### Remain Shoot Display
 `Always Display` Sets whether or not to display an indicator of the remaining number of still images that can be continuously shot at the same shooting speed. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000653512.html)
 #### Auto Review
 `Off` Shows Last image for review after each shot. Shows last picture in burst mode. [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000616748.html)
 
-### Power Setting Option
+### 8 Power Setting Option
 #### Auto Monitor OFF
 `Does not turn OFF`
 #### Power Save Start Time
@@ -247,6 +250,9 @@ Set to correct time and date [:notebook:](https://helpguide.sony.net/ilc/2110/v1
 #### Auto Power OFF Temp.
 `High` While recording video the camera gets hotter. You can get a little bit more working time out the camera when set to High [:notebook:](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000653559.html)
 
+### 9 Sound Option
+#### Audio signals
+`Off`
 
 # Backup the SHIT!
 * Backup the FTP Settings > Network > Transfer/Remote > FTP Transfer Func. > Save/Load FTP Settings > Use Wizard!
