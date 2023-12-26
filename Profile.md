@@ -165,6 +165,7 @@ Warning: Check the Playback -> Playback target to select the card to backup via 
 * FTP Function `ON`
 * Auto FTP Transfer `ON` Automatic upload of new images if connected to networking
 * Server Setting `Server 1` What server profile to connect with
+* RAW+J/H Transfer Target `RAW`
 
 ##### Server setting
 ###### Server 1
