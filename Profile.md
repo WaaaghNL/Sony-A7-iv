@@ -17,8 +17,8 @@ See! it is not so hard! Just do it!
 
 # Default Settings
 A overview of the camera factory defaults.
-* [Enlish](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000660154.html)
-* [Dutch](https://helpguide.sony.net/ilc/2110/v1/nl/contents/TP1000660901.html)
+* [Enlish](https://helpguide.sony.net/ilc/2110/v1/en/index.html)
+* [Dutch](https://helpguide.sony.net/ilc/2110/v1/nl/index.html)
 
 # Settings
 ## Shooting
@@ -166,6 +166,7 @@ Warning: Check the Playback -> Playback target to select the card to backup via 
 * Auto FTP Transfer `ON` Automatic upload of new images if connected to networking
 * Server Setting `Server 1` What server profile to connect with
 * RAW+J/H Transfer Target `RAW`
+* FTP Power Save `On`
 
 ##### Server setting
 ###### Server 1
@@ -257,6 +258,15 @@ Set to correct time and date [:notebook:](https://helpguide.sony.net/ilc/2110/v1
 ### 9 Sound Option
 #### Audio signals
 `Off`
+
+# Shortcuts / Custom Menus
+## My Menu1
+* Face/Eye Subject
+* FTP Transfer Func
+* Bluetooth fucntion
+* Shutter Type
+* Save/Load Settings
+* Touch Operations
 
 # Backup the SHIT!
 * Backup the FTP Settings > Network > Transfer/Remote > FTP Transfer Func. > Save/Load FTP Settings > Use Wizard!
